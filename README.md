@@ -1,4 +1,4 @@
-# backend
+# RESTful API written in Dart using Aqueduct
 
 ## Running the Application Locally
 
